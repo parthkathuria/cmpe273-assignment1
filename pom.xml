@@ -24,6 +24,7 @@
 		</repository>
 	</repositories>
 
+
 	<dependencies>
 		<dependency>
 			<groupId>com.yammer.dropwizard</groupId>
